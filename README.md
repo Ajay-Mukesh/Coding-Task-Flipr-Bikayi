@@ -12,3 +12,5 @@ filtering includes 1.category(instead of dropdown i have included checkbox) and 
 and check box for multiple noble awards(more than one).
 
 The file became too large so i converted into zip file.
+
+Note: Add extracted font.zip file to resources in android sutido.
